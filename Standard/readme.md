@@ -27,7 +27,8 @@ Cada flujo se puede visualizar en forma de c贸digo (predeterminado) o en modo 鈥
 
 ![](./images/designer.png) 
 
-Para debug (ejecuci贸n en local), pulsar el bot贸n de Run en el men煤 superior y start debugging.
+Para debug (ejecuci贸n en local), pulsar el bot贸n de Run en el men煤 superior y start debugging. 
+NOTA: Antes se tiene que haber inicializado los servicios de la extension "azurite"
 
 ![](./images/debug.png) 
 
